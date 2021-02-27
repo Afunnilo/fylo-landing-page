@@ -333,7 +333,7 @@ footer p {
     grid-area: attribution;
 }
 
-@media (max-width: 1440px) {
+@media (max-width: 1000px) {
     header {
         padding: var(2.5em 2em);
     }
